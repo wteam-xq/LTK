@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>三国杀1v1单机版</title>
+    <link rel="icon" type="image/GIF" href="res/favicon.ico"/>
+    <style>
+        body{
+            background-color:#1F1F1F;
+            padding:0;
+            margin: 0;
+            font-size: 0;
+        }
+        .phone{
+            background: url("res/img/phone.png") no-repeat;
+            width: 596px;
+            height: 343px;
+            padding-top: 10px;
+            padding-left:60px;
+            text-align:center;
+            margin:120px auto;
+        }
+        .canvasDiv{
+            margin-left:11px;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <div class="phone">
+        <div class="canvasDiv">
+            <canvas id="gameCanvas" width="480" height="320"></canvas>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
+<script src="cocos2d.js"></script>
