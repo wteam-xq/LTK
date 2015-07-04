@@ -1,7 +1,7 @@
 ### cocos2d-html5 小游戏代码
 
 * 未完成作品，有时间继续更新。。。
-*  项目在线地址：[点击访问](http://wteamxq.com/threeKingdoms/) 
+*  项目在线地址：[点击访问](http://wteamxq.com/LTK/) 
 
 * 游戏截图：
 * ![游戏设置](https://github.com/wteam-xq/LTK/blob/master/s_game_setting.png)
